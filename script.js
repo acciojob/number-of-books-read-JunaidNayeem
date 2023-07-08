@@ -24,7 +24,7 @@ for (let book of library) {
     count++;
   }
 }
-
+	return count;
 };
 
 // Do not change the code below
